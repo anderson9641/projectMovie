@@ -1,0 +1,11 @@
+postgres://
+
+/* esse é o usuário */ mnzjdjxvgfbhjg
+:
+/* esse é a senha */ 72d56729f0c454a142af270532e51683c76c8834dea7317cbd311d06afec3dff
+@
+/* esse é o host do server */    ec2-3-227-15-75.compute-1.amazonaws.com
+:
+/* esse é a porta */ 5432
+/
+/* esse é a base de dados */ d3h2hikmnqmcdh
